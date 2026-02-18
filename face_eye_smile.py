@@ -40,7 +40,7 @@ while True:
                         cv2.FONT_HERSHEY_SIMPLEX,
                         0.6, (0, 255, 0), 2)
         else:
-            cv2.putText(frame, "Gand kyu jaal ri hai?",
+            cv2.putText(frame, "Smile Please..😊",
                         (x, y - 10),
                         cv2.FONT_HERSHEY_SIMPLEX,
                         0.6, (0, 0, 255), 2)
